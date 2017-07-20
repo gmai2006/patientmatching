@@ -1,0 +1,4 @@
+exact match last, first, ssn, dob 27920/2
+exact match last, first, ssn 32612/2
+exact match last, first, ssn but dob different 4692/2
+exact match last, ssn 38900/2
