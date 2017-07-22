@@ -2,3 +2,12 @@ exact match last, first, ssn, dob 27920/2
 exact match last, first, ssn 32612/2
 exact match last, first, ssn but dob different 4692/2
 exact match last, ssn 38900/2
+
+http://aseigneurin.github.io/2016/02/22/record-inkage-a-real-use-case-with-spark-ml.html
+https://github.com/databricks/spark-csv
+
+http://spark.apache.org/docs/2.0.0/api/scala/#org.apache.spark.sql.Dataset
+
+http://spark.apache.org/docs/2.0.0/api/python/pyspark.sql.html
+
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark-2/spark-sql-udfs.html
